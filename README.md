@@ -1,0 +1,2 @@
+# RxSharedPrefer
+SharedPreferences compatible wit
